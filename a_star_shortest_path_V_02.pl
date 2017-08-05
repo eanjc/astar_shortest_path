@@ -20,7 +20,7 @@ road(5,7,241).
 road(4,6,390).
 road(4,5,481).
 
-/* Heuristic that was used                  */
+/* Heuristic that was used                */
 /* distance with straight line (assumed) */
 h(1,300).
 h(2,250).
